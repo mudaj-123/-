@@ -3,4 +3,10 @@
 ### 因为github无法显示可交互式的图表，因此我将它们保存为html文件存在仓库中，以下是相应的链接。
 #### [每日 PV 与 UV 趋势对比图](/chart_1.html)
 #### [每日人均浏览量](/chart_2.html)
-#### [每日人均浏览量](/chart_L.html)
+#### [日常期间电商用户转化漏斗分析](/chart_c.html)
+#### [双12期间电商用户转化漏斗分析](/chart_c_1.html)
+#### [不同日期用户各种行为的数据](/chart_L.html)
+#### [日均各时段日常用户行为](/chart_ggrid.html)
+#### [活动期间日均各时段用户行为](/chart_active_ggrid.html)
+#### [不同时间段的购买率](/chart_pr.html)
+#### [活动后每日浏览数据](/chart_after_active_l_d.html)
